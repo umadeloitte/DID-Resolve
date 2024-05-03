@@ -1,0 +1,25 @@
+    {
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:challabeehyv.github.io:DID-Resolve:436f8d3c-4271-450d-813b-e17fb2bc8ab5",
+        "alsoKnownAs": [
+            "testUUID",
+            "test@gmail.com"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:challabeehyv.github.io:DID-Resolve:436f8d3c-4271-450d-813b-e17fb2bc8ab5#key-0",
+                "type": "RsaVerificationKey2018",
+                "controller": "did:web:challabeehyv.github.io:DID-Resolve:436f8d3c-4271-450d-813b-e17fb2bc8ab5",
+                "publicKeyPem": "-----BEGIN PUBLIC KEY-----\r\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz75dc45x7XotfI5N/voN\r\nmA95/6B09s3EwV+VwWar96ZqQX4Z6NuSj7XEHhq972hghiQueLICzLkHCDLsoPUx\r\n59Z2w2KUtYBF1OsNDqjVYe93JTQuc67cIUk7Z+GNaJyFlNo7YF3wqmFZ3t2I6Z8x\r\n7aS8SHWpoWVgJQ3motIkJNnbO53NxtEj+b4h3Zs9aOHCcgFWFzdfHzrTiw01w3c4\r\ndkSiE+UBXt9zmDk7kQN9HNx5LtrcFLnO894oDpAuljFO/18xbqBWFxlDkKyfYqD/\r\n7BjxRLQ+rthrXkTQKxFh4b1T/zSmjL6onNdr5cgmG+xdGevG+2WzmJYWPGxBUXOi\r\ngwIDAQAB\r\n-----END PUBLIC KEY-----\r\n"
+            }
+        ],
+        "authentication": [
+            "did:web:challabeehyv.github.io:DID-Resolve:436f8d3c-4271-450d-813b-e17fb2bc8ab5#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:challabeehyv.github.io:DID-Resolve:436f8d3c-4271-450d-813b-e17fb2bc8ab5#key-0"
+        ]
+    }
