@@ -1,0 +1,27 @@
+[
+    {
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:umadeloitte.github.io:DID-Resolve:9862d546-79ad-40f5-84a6-697a2c720bf2",
+        "alsoKnownAs": [
+            "did.test@gmail.com.test"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:umadeloitte.github.io:DID-Resolve:9862d546-79ad-40f5-84a6-697a2c720bf2#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:umadeloitte.github.io:DID-Resolve:9862d546-79ad-40f5-84a6-697a2c720bf2",
+                "publicKeyMultibase": "z6MksCgm1QdGFwJ8zmpBYbMCz5z8JaF8DFCnVTKz32GJ7bAx"
+            }
+        ],
+        "authentication": [
+            "did:web:umadeloitte.github.io:DID-Resolve:9862d546-79ad-40f5-84a6-697a2c720bf2#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:umadeloitte.github.io:DID-Resolve:9862d546-79ad-40f5-84a6-697a2c720bf2#key-0"
+        ]
+    }
+]
